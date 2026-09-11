@@ -1,24 +1,59 @@
 # Selam, ben Samet Bitiş! 👋
 
 ### 🎓 Hakkımda
-Tekirdağ Namık Kemal Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Yazılım dünyasındaki yolculuğumda Python'ın gücü ve verilerin sunduğu sınırsız imkanlar üzerine odaklanıyorum. Ham veriyi anlamlı bilgilere dönüştürmeyi ve Python ile ölçeklenebilir çözümler üretmeyi seviyorum.
 
-### 🚀 Şu an ne yapıyorum?
-- 🎓 Mezuniyet projemde "Yaşam Tarzı Verileri Kullanılarak Makine Öğrenmesi Modelleri İle Uyku Bozukluklarının Çoklu Sınıflandırılması" üzerine çalışıyorum.
-- 🐍 Python ekosisteminde (Pandas, NumPy, Scikit-learn) derinleşiyorum.
-- 📊 Veri görselleştirme ve SQL ile veritabanı yönetimi konularında projeler geliştiriyorum.
-- 🔍 Veri Bilimi (Data Science) veya Backend Development alanlarında Junior/Staj pozisyonları arıyorum.
+Bilgisayar Mühendisi ve Yazılım Geliştiriciyim. Backend geliştirme, veritabanları ve kurumsal yazılım alanlarıyla ilgileniyorum. Stajlarım ve kişisel projelerim aracılığıyla farklı teknolojiler kullanarak uygulamalar geliştirdim.
 
-### 🛠️ Teknolojilerim & Yeteneklerim
-- Diller: Python, SQL, C#, C
-- Veri Bilimi & Analiz: Pandas, NumPy, Matplotlib, Seaborn
-- Veritabanı: SQL, SQLite, MySQL
-- Araçlar: Git, Docker, Jupyter Notebook, Google Colab
+### 🚀 Nelerle Çalışıyorum?
 
-### 📫 Bana Ulaşın:
-- LinkedIn: www.linkedin.com/in/samet-bitiş-86247a384
-- E-posta: sametbitiss@gmail.com
+* 💻 Backend geliştirme ve web uygulamaları
+* 🗄️ İlişkisel veritabanları ve SQL
+* ⚙️ ERP ve kurumsal yazılım uygulamaları
+* 🤖 Python ve makine öğrenmesi projeleri
+* 📚 Yeni teknolojiler öğrenerek kendimi geliştirmeye devam ediyorum
+
+### 🛠️ Teknolojiler
+
+**Programlama Dilleri**
+
+* C#
+* JavaScript
+* Python
+* SQL
+
+**Backend & Web**
+
+* Node.js
+* Express.js
+* .NET
+* REST API
+
+**Veritabanları**
+
+* PostgreSQL
+* Microsoft SQL Server
+* Oracle PL/SQL
+
+**Makine Öğrenmesi & Veri**
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+
+### 📌 Öne Çıkan Projeler
+
+* **Full-Stack ERP Uygulaması** — Node.js, Express.js, PostgreSQL ve Sequelize kullanılarak geliştirilen ERP uygulaması.
+* **Sleep Disorder Prediction** — Yaşam tarzı verileri kullanılarak uyku bozukluklarının makine öğrenmesi ile sınıflandırılması.
+* **Heart Disease Prediction** — Makine öğrenmesi kullanılarak kalp hastalığı tahmini üzerine geliştirilen proje.
+* **Glasses Detection System** — Görüntü işleme ve makine öğrenmesi üzerine geliştirilen proje.
+
+### 📫 Bana Ulaşın
+
+* LinkedIn: [Samet Bitiş](https://www.linkedin.com/in/samet-bitiş-86247a384/)
+* E-posta: [sametbitiss@gmail.com](mailto:sametbitiss@gmail.com)
+* GitHub: [sametbitiss](https://github.com/sametbitiss)
 
 ---
 
-*"In God we trust, all others must bring data." (W. Edwards Deming)*
+> *"In God we trust, all others must bring data." — W. Edwards Deming*
